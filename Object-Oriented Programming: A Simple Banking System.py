@@ -1,5 +1,3 @@
-# My-Python-codes
-
 class Account:
     def __init__(self, account_number, account_holder, balance=0):
         self.account_number = account_number
